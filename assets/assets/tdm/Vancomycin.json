@@ -1,0 +1,7 @@
+{
+    "modelName": "Vancomycin",
+    "parameters": {
+        "kinetictype": 0,
+        "distVolume": 0.98
+    }
+}
