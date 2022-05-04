@@ -1,7 +1,7 @@
 {
     "chartresource": "乖乖手冊",
     "charttype": "Categorial",
-    "chartdesription":"5項分數相加，滿分為10分。出生後，分別在第一分鐘、第五分鐘時測量，分數代表意義如下：\n\n8〜10分：有活力且有洪亮哭聲。\n5〜7分：代表新生兒有輕微窘迫。\n4分以下：有嚴重的新生兒窘迫。",
+    "chartdescription":"5項分數相加，滿分為10分。出生後，分別在第一分鐘、第五分鐘時測量，分數代表意義如下：\n\n8〜10分：有活力且有洪亮哭聲。\n5〜7分：代表新生兒有輕微窘迫。\n4分以下：有嚴重的新生兒窘迫。",
     "scoretypeconstant": true,
     "title": "APGAR score",
     "singlechoicepersection": true,

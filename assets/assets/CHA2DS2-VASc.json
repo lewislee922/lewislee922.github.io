@@ -1,7 +1,7 @@
 {
     "chartresource": "MDClac",
     "charttype": "Categorial",
-    "chartdesription":"CHA2DS2-VASc",
+    "chartdescription":"CHA2DS2-VASc",
     "scoretypeconstant": true,
     "title": "CHA2DS2-VASc",
     "singlechoicepersection": true,
