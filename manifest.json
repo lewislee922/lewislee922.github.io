@@ -1,6 +1,6 @@
 {
-    "name": "tdd_demo",
-    "short_name": "tdd_demo",
+    "name": "self_test_seller_map_demo",
+    "short_name": "self_test_seller_map_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
