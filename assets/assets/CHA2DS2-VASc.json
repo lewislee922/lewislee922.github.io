@@ -1,0 +1,106 @@
+{
+    "chartresource": "MDClac",
+    "charttype": "Categorial",
+    "chartdescription":"CHA2DS2-VASc",
+    "scoretypeconstant": true,
+    "title": "CHA2DS2-VASc",
+    "singlechoicepersection": true,
+    "sections":  
+    [
+        {
+            "title": "年齡",
+            "items": [
+                {
+                    "score": 0,
+                    "description": "小於65歲"
+                },
+                {
+                    "score": 1,
+                    "description": "65-74歲"
+                },
+                {
+                    "score": 2,
+                    "description": "大於等於75歲"
+                }
+            ]
+        },
+        {
+            "title": "性別",
+            "items": [
+                {
+                    "score": 0,
+                    "description": "男性"
+                },
+                {
+                    "score": 1,
+                    "description": "女性"
+                }
+            ]
+        },
+        {
+            "title": "是否有CHF病史",
+            "items": [
+                {
+                    "score": 1,
+                    "description": "是"
+                },
+                {
+                    "score": 0,
+                    "description": "否"
+                }
+            ]
+        },
+        {
+            "title": "是否有高血壓病史",
+            "items": [
+                {
+                    "score": 1,
+                    "description": "是"
+                },
+                {
+                    "score": 0,
+                    "description": "否"
+                }
+            ]
+        },
+        {
+            "title": "是否有血栓/stroke/TIA病史",
+            "items": [
+                {
+                    "score": 2,
+                    "description": "是"
+                },
+                {
+                    "score": 0,
+                    "description": "否"
+                }
+            ]
+        },
+        {
+            "title": "是否有血管疾病病史\n(MI, PAD, 冠狀動脈斑塊)",
+            "items": [
+                {
+                    "score": 1,
+                    "description": "是"
+                },
+                {
+                    "score": 0,
+                    "description": "否"
+                }
+            ]
+        },
+        {
+            "title": "是否有DM病史",
+            "items": [
+                {
+                    "score": 1,
+                    "description": "是"
+                },
+                {
+                    "score": 0,
+                    "description": "否"
+                }
+            ]
+        }
+    ]
+}

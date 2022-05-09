@@ -1,0 +1,96 @@
+{
+    "chartresource": "乖乖手冊",
+    "charttype": "Categorial",
+    "chartdescription":"5項分數相加，滿分為10分。出生後，分別在第一分鐘、第五分鐘時測量，分數代表意義如下：\n\n8〜10分：有活力且有洪亮哭聲。\n5〜7分：代表新生兒有輕微窘迫。\n4分以下：有嚴重的新生兒窘迫。",
+    "scoretypeconstant": true,
+    "title": "APGAR score",
+    "singlechoicepersection": true,
+    "sections":  
+    [
+        {
+            "title": "外觀 Appearance",
+            "items": [
+                {
+                    "score": 0,
+                    "description": "全身發紺"
+                },
+                {
+                    "score": 1,
+                    "description": "軀體紅手腳紺"
+                },
+                {
+                    "score": 2,
+                    "description": "全身紅潤"
+                }
+            ]
+        },
+        {
+            "title": "脈搏 Pulse（次/分鐘）",
+            "items": [
+                {
+                    "score": 0,
+                    "description": "無脈搏"
+                },
+                {
+                    "score": 1,
+                    "description": "< 100"
+                },
+                {
+                    "score": 2,
+                    "description": "> 100"
+                }
+            ]
+        },
+        {
+            "title": "表情 Grimace",
+            "items": [
+                {
+                    "score": 0,
+                    "description": "刺激無反應"
+                },
+                {
+                    "score": 1,
+                    "description": "噴嚏或咳嗽"
+                },
+                {
+                    "score": 2,
+                    "description": "刺激會哭泣"
+                }
+            ]
+        },
+        {
+            "title": "活力 Activity",
+            "items": [
+                {
+                    "score": 0,
+                    "description": "無力"
+                },
+                {
+                    "score": 1,
+                    "description": "關節收縮"
+                },
+                {
+                    "score": 2,
+                    "description": "活力旺盛"
+                }
+            ]
+        },
+        {
+            "title": "呼吸 Respiration",
+            "items": [
+                {
+                    "score": 0,
+                    "description": "無呼吸"
+                },
+                {
+                    "score": 1,
+                    "description": "淺弱或不規律"
+                },
+                {
+                    "score": 2,
+                    "description": "呼吸好或大哭"
+                }
+            ]
+        }
+    ]
+}

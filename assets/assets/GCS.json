@@ -1,0 +1,86 @@
+{
+    "chartresource": "國軍桃園總醫院",
+    "charttype": "Categorial",
+    "chartdescription":"昏迷程度以E、V、M三者分數加總來評估，滿分15分，最低3分\n \n總分15分：為正常\n總分12分或以上：表示病患需要密切觀察\n總分8分：表示有腦之病變或損傷\n總分8分以上：預後及復原情況佳\n總分7分或以下：病患已呈現昏迷現象\n總分介於3~4分：認知方面回復之預後較差，且有較高的死亡率\n總分3分：表示深度昏迷、腦細胞已經死亡，死亡率及未來恢復很差\n",
+    "scoretypeconstant": true,
+    "title": "GCS score",
+    "singlechoicepersection": true,
+    "sections":  
+    [
+        {
+            "title": "睜眼反應(E)",
+            "items": [
+                {
+                    "score": 4,
+                    "description": "有人靠近不需叫喚自動張開眼睛"
+                },
+                {
+                    "score": 3,
+                    "description": "需呼叫其姓名才能張開眼睛"
+                },
+                {
+                    "score": 2,
+                    "description": "需給予痛刺激才能張開眼睛"
+                },
+                {
+                    "score": 1,
+                    "description": "對於刺激及痛楚完全無反應"
+                }
+            ]
+        },
+        {
+            "title": "語言反應(V)",
+            "items": [
+                {
+                    "score": 5,
+                    "description": "人、時、地、物均能清楚回答"
+                },
+                {
+                    "score": 4,
+                    "description": "可應答，但人、時、地不清楚，對話混淆不清"
+                },
+                {
+                    "score": 3,
+                    "description": "只能說一些不適當的單字、詞"
+                },
+                {
+                    "score": 2,
+                    "description": "只能發出無法分辨的聲音"
+                },
+                {
+                    "score": 1,
+                    "description": "無任何反應"
+                }
+            ]
+        },
+        {
+            "title": "運動反應(M)",
+            "items": [
+                {
+                    "score": 6,
+                    "description": "可依指令做正確動作"
+                },
+                {
+                    "score": 5,
+                    "description": "能除去痛覺刺激原"
+                },
+                {
+                    "score": 4,
+                    "description": "對痛刺激肢體呈退縮反應"
+                },
+                {
+                    "score": 3,
+                    "description": "對痛刺激肢體呈屈曲反應"
+                },
+                {
+                    "score": 2,
+                    "description": "對痛刺激肢體呈伸展反應"
+                },
+                {
+                    "score": 1,
+                    "description": "疼痛刺激下無任何反應"
+                }
+            ]
+        }
+    ]
+}
